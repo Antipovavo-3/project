@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>название сайта</title>
+    </head>
+    <body>
+        <h1>заголовок</h1>
+        <p>
+            текст
+
+        </p>
+        <a href="ссылка">
+            можно указать что за ссылка
+        </a>
+        <ing scr="sait..png" alt="ошибка"/>
+    </body>
+</html>

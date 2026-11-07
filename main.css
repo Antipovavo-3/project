@@ -1,0 +1,21 @@
+h1{  
+    text-align: center;
+    font-size: 40px;
+    color:rgb(0, 0, 0)}
+p { border-bottom-style: dotted; }
+body {
+   background-image: url("pi.jpeg"); 
+   background-repeat: no-repeat;
+   background-attachment: center;
+   background-size: cover;
+   background-attachment: fixed;
+   
+}
+
+h4, h6, p, img {
+  text-align: center;
+}
+img {
+     border-style: solid;
+     border-color: #32b0b3 #9434a8;
+}
